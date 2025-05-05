@@ -1,0 +1,7 @@
+[intel-graphics-9.4-unified]
+name=Intel graphics 9.4 unified
+enabled=1
+gpgcheck=1
+baseurl=https://repositories.intel.com/gpu/rhel/9.4/unified/
+gpgkey=https://repositories.intel.com/gpu/intel-graphics.key
+priority=98
